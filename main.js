@@ -43,7 +43,6 @@ function onSubmit(e){
 
         nameInput.value = '';
         emailInput.value = '';
-        password.value = '';
     }
 }
 
